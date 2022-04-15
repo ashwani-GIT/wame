@@ -1,0 +1,8 @@
+expo init myNewProject
+-- blank - choose
+	and enter the name of project (if ask)
+cd myNewProject
+expo start
+
+
+
